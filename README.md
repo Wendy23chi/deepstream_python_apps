@@ -33,8 +33,10 @@ The sample applications require [MetaData Bindings](#metadata_bindings) to work.
 To run the sample applications or write your own, please consult the [HOW-TO Guide](HOWTO.md)  
 
 <p align="center">
-<img src=".test3-app.png" alt="deepstream python app screenshot" height="400px"/>
+<img src="SentSerial.png" alt="sent serial screenshot" height="400px"/>
 </p>
+
+
 
 We currently provide the following sample applications:
 * [deepstream-test1](apps/deepstream-test1) -- 4-class object detection pipeline
